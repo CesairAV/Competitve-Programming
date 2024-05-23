@@ -1,4 +1,4 @@
-##Problem##
+#Problem#
 
 Alex is appointed as the class teacher of standard 10th. He wants to arrange the seating arrangement of the n students in some random manner. So he thoughts of giving random number to the people roll no wise such that roll no 1 takes first random number , then roll no. 2 takes a random number and so on.
 
