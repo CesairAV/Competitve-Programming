@@ -15,8 +15,8 @@ OUPUT:
 For each test case, output on a separate line containing only one integer ,i.e, the total number of pair of students who can be seated together according to the given formula.
 
 Example:
-2
-4 
-5 1 2 4
-4
-8 1 1 7
+2\n
+4 \n
+5 1 2 4\n
+4\n
+8 1 1 7\n
